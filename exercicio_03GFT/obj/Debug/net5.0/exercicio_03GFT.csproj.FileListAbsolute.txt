@@ -1,0 +1,16 @@
+C:\Users\maria\Desktop\GFT\GFT-START-2021\exercicio_03GFT\bin\Debug\net5.0\exercicio_03GFT.exe
+C:\Users\maria\Desktop\GFT\GFT-START-2021\exercicio_03GFT\bin\Debug\net5.0\exercicio_03GFT.deps.json
+C:\Users\maria\Desktop\GFT\GFT-START-2021\exercicio_03GFT\bin\Debug\net5.0\exercicio_03GFT.runtimeconfig.json
+C:\Users\maria\Desktop\GFT\GFT-START-2021\exercicio_03GFT\bin\Debug\net5.0\exercicio_03GFT.runtimeconfig.dev.json
+C:\Users\maria\Desktop\GFT\GFT-START-2021\exercicio_03GFT\bin\Debug\net5.0\exercicio_03GFT.dll
+C:\Users\maria\Desktop\GFT\GFT-START-2021\exercicio_03GFT\bin\Debug\net5.0\ref\exercicio_03GFT.dll
+C:\Users\maria\Desktop\GFT\GFT-START-2021\exercicio_03GFT\bin\Debug\net5.0\exercicio_03GFT.pdb
+C:\Users\maria\Desktop\GFT\GFT-START-2021\exercicio_03GFT\obj\Debug\net5.0\exercicio_03GFT.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\GFT\GFT-START-2021\exercicio_03GFT\obj\Debug\net5.0\exercicio_03GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\GFT\GFT-START-2021\exercicio_03GFT\obj\Debug\net5.0\exercicio_03GFT.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\GFT\GFT-START-2021\exercicio_03GFT\obj\Debug\net5.0\exercicio_03GFT.AssemblyInfo.cs
+C:\Users\maria\Desktop\GFT\GFT-START-2021\exercicio_03GFT\obj\Debug\net5.0\exercicio_03GFT.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\GFT\GFT-START-2021\exercicio_03GFT\obj\Debug\net5.0\exercicio_03GFT.dll
+C:\Users\maria\Desktop\GFT\GFT-START-2021\exercicio_03GFT\obj\Debug\net5.0\ref\exercicio_03GFT.dll
+C:\Users\maria\Desktop\GFT\GFT-START-2021\exercicio_03GFT\obj\Debug\net5.0\exercicio_03GFT.pdb
+C:\Users\maria\Desktop\GFT\GFT-START-2021\exercicio_03GFT\obj\Debug\net5.0\exercicio_03GFT.genruntimeconfig.cache
